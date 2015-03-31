@@ -4,6 +4,8 @@
 
 Here's a [demo](http://examples.jnantunes.com/calls/examples/) of the application, which generates new calls every 5 seconds.
 
+![Screenshot](/examples/inprogresscalls.png?raw=true)
+
 ## Features
 
 ### 0.1.0
