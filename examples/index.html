@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>In Progress Calls Example</title>
+    
+    <style>
+        html {overflow:hidden;}
+        body {margin:0;}
+        
+        .AppDashboard {position: fixed; top: 15px; left: 15px;}
+        .AppDashboard text {fill: #FFFFFF; text-shadow: #555 3px 3px; text-anchor: middle;font-size: 14px;font-family: sans-serif;}
+    </style>
+</head>
+
+<body>
+    <script src="../build/ipc.min.js"></script>
+
+	<script>
+        IPC.DEBUG = false;
+        
+		var scene = new IPC.Scene();
+		
+        scene.init({
+            rate: 60 // per second
+        });
+	</script>
+</body>
+
+</html>
