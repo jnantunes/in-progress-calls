@@ -2,7 +2,7 @@
 
 ## Demo
 
-Here's a [demo](http://jnantunes.github.io/in-progress-calls/) of the application, which generates new calls every 5 seconds.
+Here's a [demo](http://jnantunes.github.io/in-progress-calls/build/index.html) of the application, which generates new calls every 5 seconds.
 
 ![Screenshot](images/inprogresscalls.png?raw=true)
 
@@ -42,15 +42,10 @@ This class handles most of the application logic, subscribing and publishing to 
 
 ### Building project
 
-#### Install Node.js and NPM
+#### Requirements
 
-You can use [Homebrew](http://brew.sh/) to do that, by typing the following line, once installed:
-
-```
-brew install node
-```
-
-#### Install Grunt CLI
+* Install Node.js and NPM
+* Install Grunt CLI
 
 The project uses [Grunt](http://gruntjs.com/) Command Line Interface (CLI) to automated repetitive tasks. Install it by typing:
 
