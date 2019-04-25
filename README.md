@@ -2,9 +2,9 @@
 
 ## Demo
 
-Here's a [demo](http://examples.jnantunes.com/calls/examples/) of the application, which generates new calls every 5 seconds.
+Here's a [demo](http://jnantunes.github.io/in-progress-calls/) of the application, which generates new calls every 5 seconds.
 
-![Screenshot](/examples/inprogresscalls.png?raw=true)
+![Screenshot](images/inprogresscalls.png?raw=true)
 
 ## Features
 
